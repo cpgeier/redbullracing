@@ -1,0 +1,15 @@
+#baseURL = "http://example.org/"
+#languageCode = "en-us"
+#title = "My New Hugo Site"
+#theme = "arabica"
+
+baseurl = "https://example.org/"
+title = "Red Bull Racing"
+author = "Red Bull Racing at UVA"
+paginate = 3
+theme = "arabica"
+
+[params]
+    description = "F1/10th scale racing team at UVA"
+    dateFormatToUse = "2006-01-02"
+    replaceGoogleFonts = "fonts.loli.net"
